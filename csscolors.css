@@ -1,0 +1,33 @@
+h1{
+    color:red;
+    background-color:black;
+
+}
+h2 {
+
+    color:rgb(120,250,150);
+    background-color:rgb(120,250,0);
+
+}
+h6{
+    color:red;
+width:500px;
+    background-color:rgba(120,120,120,0.5);
+   background-image:url("image/20201.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+div{
+    width:500px;
+    height:300px;
+    box-shadow:0 0 10px black;
+background-color:hsla(200,70%,45%,0.5);
+    background-image:url("image/20204.jpeg");
+
+
+}
+body{
+
+    margin-bottom:500px;
+}

@@ -1,0 +1,27 @@
+div{
+
+    text-align: center;
+    color:white;
+    padding: 10px;
+    border-radius:80px;
+
+
+}
+body{
+    background:linear-gradient(45deg,lightgreen,coral,lightgreen);
+      text-align: center;
+}
+
+table{
+
+    border-collapse: collapse;
+    width:100%;
+
+
+
+}
+img{
+    box-shadow: #180a06;
+
+
+}
